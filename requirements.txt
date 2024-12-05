@@ -1,1 +1,5 @@
 opencv-python
+tensorflow
+streamlit
+numpy
+keras
